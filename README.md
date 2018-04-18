@@ -8,7 +8,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ![enter image description here](https://github.com/seniorfullstackdev/washingtonTrace/blob/master/images/Screen%20Shot%202018-04-18%20at%206.03.05%20AM.png?raw=true)!
 
 ### Main Pages
-(https://github.com/seniorfullstackdev/washingtonTrace/blob/master/images/Screen%20Shot%202018-04-18%20at%206.03.21%20AM.png?raw=true)
+![enter image description here](https://github.com/seniorfullstackdev/washingtonTrace/blob/master/images/Screen%20Shot%202018-04-18%20at%206.03.21%20AM.png?raw=true)
 
 ## Development server
 
